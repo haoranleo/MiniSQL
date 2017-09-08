@@ -1,0 +1,17 @@
+create table student2(
+	id int,
+	name char(12) unique,
+	score float,
+	primary key(id) 
+);
+
+execfile instruct0.txt;
+execfile instruct1.txt;
+execfile instruct2.txt;
+execfile instruct3.txt;
+execfile instruct4.txt;
+execfile instruct5.txt;
+execfile instruct6.txt;
+execfile instruct7.txt;
+execfile instruct8.txt;
+execfile instruct9.txt;
